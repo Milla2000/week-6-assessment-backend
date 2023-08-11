@@ -1,0 +1,16 @@
+
+
+### register
+POST  http://localhost:4500/users/register
+Content-Type: application/json
+
+{
+    "full_name": "Jkljokhjnd Jesso",
+    "email":"milljajlnc@gmail.com",
+    "password":"1299345678",
+    "cohort": "1dvsz"
+}
+
+
+
+
